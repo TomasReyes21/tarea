@@ -9,3 +9,7 @@ const sumar = (a,b) => a + b
 sumar(2,5)
 
 const restar = (a,b) => a - b
+
+restar(5,5)
+
+const multiplicar = (a,b) => a * b
