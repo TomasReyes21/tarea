@@ -1,11 +1,13 @@
 const arrayDeObjetos = [
-    { name: "Jose", edad: 2 },
-    { name: "tomas", edad: 7 },
-    { name: "Fernando", edad: 27 }
+    { name: "Sebastian", edad: 25 },
+    { name: "Fernando", edad: 27 },
+    {name:"perrito", edad:2}
   ];
 
-const sumar = (a,b) => a + b
+const multiplicar = (a,b) => a + b + c + dividir
 
 sumar(2,5)
 
 const restar = (a,b) => a - b
+
+const dividir = (a,b) => a / b
